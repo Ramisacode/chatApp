@@ -1,0 +1,28 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramisacode/chatApp.git"
+  },
+  "keywords": [
+    "ram"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramisacode/chatApp/issues"
+  },
+  "homepage": "https://github.com/Ramisacode/chatApp#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
